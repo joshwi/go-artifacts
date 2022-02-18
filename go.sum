@@ -1,0 +1,4 @@
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/joshwi/go-utils v1.0.17 h1:yWZ8m3qJ+GTgQUhb0CQIBa0/cF4xAnNc+cgrGn5fZwE=
+github.com/joshwi/go-utils v1.0.17/go.mod h1:FDD5fPNq+iUTuQ8uPZefK/oE/nT9L+FdMAP7QD4O4RA=
